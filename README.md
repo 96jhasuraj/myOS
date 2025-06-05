@@ -1,2 +1,2 @@
 # myOS
-mini os implementation
+mini os implementation - WIP
